@@ -3,3 +3,4 @@
 - [x] [arrify](https://github.com/sindresorhus/arrify)
 - [x] [yocto-queue](https://github.com/sindresorhus/yocto-queue) 
 - [x] [await-to-js](https://github.com/scopsy/await-to-js/blob/master/README.md)
+- [x] [remote-git-tags](https://www.npmjs.com/package/remote-git-tags) 
