@@ -5,3 +5,4 @@
 - [x] [await-to-js](https://github.com/scopsy/await-to-js/blob/master/README.md)
 - [x] [remote-git-tags](https://www.npmjs.com/package/remote-git-tags) 
 - [x] [delay](https://github.com/sindresorhus/delay/tree/main)
+- [x] [js-cookie](https://github.com/js-cookie/js-cookie/blob/main/README.md)

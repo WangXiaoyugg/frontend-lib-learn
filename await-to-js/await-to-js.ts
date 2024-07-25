@@ -1,6 +1,6 @@
 /**
  * @param { Promise } promise
- * @param { Object= } errorExt - Additional Information you can pass to the err object
+ * @param { Object } errorExt - Additional Information you can pass to the err object
  * @return { Promise }
  */
 
